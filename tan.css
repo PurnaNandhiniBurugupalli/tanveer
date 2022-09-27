@@ -1,0 +1,153 @@
+.p1::before{
+    color: rgb(2, 82, 253);
+    content:'@';
+}
+.h{
+    color:darkblue;
+    margin-left: 40px;
+}
+.fa-phone-flip{
+    color:rgb(2, 82, 253);
+    margin-left: 100px;
+  
+}
+.ml li p{
+    display: inline;
+}
+
+#i1{
+    display: inline;
+}
+.i2{
+    color:black;
+}
+.l2{
+    display: inline;
+}
+.i3{
+    display: inline;
+}
+.fa-location-pin{
+    color:rgb(2, 82, 253);
+    margin-left:100px;
+}
+.fa-linkedin{
+    color:rgb(2, 82, 253);
+    font-size-adjust: 10px;
+    margin-left:40px;
+}
+#i4{
+    display:inline;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.c1{
+     width:30%; 
+   /* background-color: aqua; */
+    margin-left: 40px;
+    position: relative;
+    top:20px;
+}
+
+.s{
+    color:darkblue;
+    margin-left: 40px;
+    border-bottom: 2px solid chocolate;
+    width:200px;
+    margin-bottom: 3px;
+}
+.b1{
+    border: 1px solid black;
+    width:150px;
+    text-align: center;
+    border-radius: 7px;
+    margin-left: 40px;
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
+.b2{
+    display: inline;
+    border: 1px solid black;
+    
+     text-align: center;
+   
+   padding-right: 15px;
+   border-radius: 7px;
+    
+}
+#i4{
+    margin-left: 40px;
+}
+.b3{
+    display: inline;
+    border: 1px solid black;
+    margin-right: 0;
+     text-align: center;
+
+   padding-right: 15px;
+   border-radius: 7px;
+}
+.b4{
+    display: inline;
+    border: 1px solid black;
+    margin-right: 0;
+     text-align: center;
+   padding-right: 15px;
+   border-radius: 7px; 
+}
+#i5{
+    margin-right:100px;
+}
+.b5{
+    border: 1px solid black;
+    width:100px;
+    text-align: center;
+    border-radius: 7px;
+    margin-left: 40px;
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
+.con1 span{
+    color:blue;
+}
+.sp{
+    color:blue;
+}
+.c2{
+    /* background-color: gold; */
+    width:800px;
+    height:900px;
+    margin-left:30px;
+}
+.s2{
+    color:darkblue;
+   
+    border-bottom: 2px solid chocolate;
+    width:800px;
+    margin-bottom: 3px;
+}
+.tata{
+    color:rgb(96, 96, 230);
+}
+.space{
+    position: relative;
+    bottom: 15px;
+}
+.space1{
+    position: relative;
+    top:15px   
+}
+.con1{
+    margin-left: 35px;
+}
+.s5{
+    color:darkblue;
+    margin-left: 40px;
+    border-bottom: 2px solid chocolate;
+    width:200px;
+    margin-bottom: 3px;
+    position: relative;
+    right:35px;
+}
